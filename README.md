@@ -15,7 +15,14 @@ I'm a passionate .NET Developer and Software Tester with a strong foundation in 
 - 🤝 Actively looking to collaborate on real-world .NET and Testing projects.
 
 ---
+## 🚀 Pinned Projects
+- [Placement Drive Management System](https://github.com/rohitsurvase/placement-drive-management)  
+  A full-stack recruitment platform built with ASP.NET Core, Angular 15, and SQL Server.
+- [Windows Forms CRUD App](https://github.com/rohitsurvase/windows-forms-crud)  
+  A desktop application demonstrating CRUD operations with ADO.NET.
 
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitsurvase&theme=dark&hide_border=true)
+  
 ### Languages & Tools:
 
 <p>
