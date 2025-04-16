@@ -8,8 +8,8 @@ I'm a passionate .NET Developer and Software Tester with a strong foundation in 
 
 - 🎓 MCA Graduate with 85.75% – Strong in problem-solving and system design.
 - 💻 Currently working as a *Trainee Software Engineer* at *Think Quotient Software Pvt. Ltd.*, Pune.
-- 🔧 Skilled in *C#, ASP.NET Core MVC, ADO.NET, SQL Server, and **JavaScript*.
-- ⚙ Experienced in *Manual Testing, API Testing (Postman), Selenium, and **TestNG*.
+- 🔧 Skilled in *C#*, ASP.NET Core MVC, ADO.NET, SQL Server, and JavaScript.
+- ⚙ Experienced in Manual Testing, API Testing (Postman), Selenium, and *TestNG*.
 - 🚀 Built a *Placement Drive Management System* using ASP.NET Core, Angular, and SQL Server.
 - 🌱 Currently exploring *Angular, ASP.NET Core Web API*, and advanced testing techniques.
 - 🤝 Actively looking to collaborate on real-world .NET and Testing projects.
