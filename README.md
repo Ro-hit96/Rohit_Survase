@@ -20,6 +20,29 @@ I'm a passionate .NET Developer and Software Tester with a strong foundation in 
   A full-stack recruitment platform built with ASP.NET Core, Angular 15, and SQL Server.
 - [Windows Forms CRUD App](https://github.com/rohitsurvase/windows-forms-crud)  
   A desktop application demonstrating CRUD operations with ADO.NET.
+
+
+  ## 📜 Certifications
+
+### 🧪 Software Testing Course  
+**Issuer:** Velocity Training Centre  
+**Valid From:** November 2022 — _No Expiry_  
+[📄 View Certificate](https://drive.google.com/file/d/1yMaIjKc1MGpL_VpuNyRCUHToBVoD5_O6/view?usp=drive_link)
+
+---
+
+### 🛒 .NET Core MVC - The Complete Guide 2023 [E-commerce] [.NET 8]  
+**Platform:** Udemy  
+**Validity:** Lifetime access  
+[📄 View Certificate](https://drive.google.com/file/d/1jxsHWhSd9pmQJm6B3E_Io5bXrGfbuZz5/view?usp=sharing)
+
+---
+
+### 🤖 Selenium WebDriver with Java – Basics to Advanced Frameworks  
+**Platform:** Udemy  
+**Valid From:** April 2024 — _No Expiry_  
+[📄 View Certificate](https://www.udemy.com/certificate/UC-c582abe0-4bde-40ac-84ec-c0756992db6d/)
+
   
 ### Languages & Tools:
 
