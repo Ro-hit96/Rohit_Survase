@@ -36,8 +36,7 @@ I'm a passionate .NET Developer and Software Tester with a strong foundation in 
 </p>
 
 ---
- ![GitHub Streak]
- (https://github-readme-streak-stats.herokuapp.com/?user=rohitsurvase&theme=dark&hide_border=true)
+
 ### GitHub Stats:
 
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitsurvase&show_icons=true&theme=react)
@@ -50,3 +49,5 @@ I'm a passionate .NET Developer and Software Tester with a strong foundation in 
 
 - [LinkedIn](https://www.linkedin.com/in/rohit-survase-37945525a/)
 - Email: rohitsurvase4363@gmail.com
+
+-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitsurvase&theme=dark&hide_border=true)
