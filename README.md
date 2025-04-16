@@ -68,5 +68,5 @@ I'm a passionate .NET Developer and Software Tester with a strong foundation in 
 
 ### Connect with me:
 
-- [LinkedIn] (https://www.linkedin.com/in/rohit-survase-37945525a/)
+- LinkedIn Profile:(https://www.linkedin.com/in/rohit-survase-37945525a/)
 - Email: rohitsurvase4363@gmail.com
